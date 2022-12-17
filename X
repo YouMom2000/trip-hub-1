@@ -1,7 +1,0 @@
---WHAT ARE YOU DOING HERE? IF WHAT YOU ARE LOOKING FOR IS TO STEAL THE SCRIPT YOU ARE WRONG, RIGHT NOW I KNOW YOUR IP,DNS AND LOCALITATION...
-
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerEmilianoFF/trip_/main/Hub", true))()
-
-print(".gg/tVmwAwwx")
